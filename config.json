@@ -1,0 +1,9 @@
+{
+    "weather_check_timer_in_minutes": 30,
+    "zip_code": "",
+    "rapid_api_key": "",
+    "weather_types": {
+        "partly cloudy": "CLOUDS",
+        "light rain": "OVERCAST"
+    }
+}
